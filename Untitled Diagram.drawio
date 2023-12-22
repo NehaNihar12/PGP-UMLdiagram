@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T10:53:11.217Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Wxalm-gmRaE0546HChCM" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T19:50:36.374Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IEOOaGc1ggcxRauOCdb6" version="22.1.11" type="github">
   <diagram name="Page-1" id="cJQJEl_tC62Ls2x0lMp5">
-    <mxGraphModel dx="728" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="728" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-2" value="Admin" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-2" value="Admin" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-3" value="Inventory Manager" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-3" value="Inventory Manager" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-4" value="Notification service" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-4" value="Notification service" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="570" y="230" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-6" value="login/logout" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-6" value="login/logout" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="210" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-7" value="manage inventory manager" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-7" value="manage inventory manager" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="220" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-8" value="place order" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-8" value="place order" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-9" value="send notification" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="Qy9qU5IsJ-qsl3NGVbkb-9" value="send notification" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="414" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
